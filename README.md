@@ -1,7 +1,10 @@
 qtSync
 ======
 
-qtSync directive for Angular.js lets you sync the collection iterated by ng-repeat with other users
+qtSync directive for Angular.js lets you sync the collection iterated by ng-repeat with other users/clients.
+
+This example implements a chat room with minimal amounts of code.
+
 
 ```html
 <ul>
